@@ -10,4 +10,4 @@ def ping():
     return "OK"
 # FIX: avoid shell, pass a list; validate/whitelist target
 # subprocess.check_output(["ping", "-c", "1", target])
-# Minimal change
+# Minimal change 2
